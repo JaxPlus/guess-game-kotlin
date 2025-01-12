@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewPrzypomnienie</string>
+    <string-array name="names">
+        <item>Jan</item>
+        <item>Papryczek</item>
+    </string-array>
+</resources>

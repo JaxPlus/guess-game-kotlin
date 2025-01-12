@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">Bubble Tea Guess Game</string>
+    <string name="star_icon">Star icon</string>
+    <string name="leaderboard_icon">Leaderboard icon</string>
+    <string name="levels">Levels</string>
+    <string name="play">Play</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="your_companion_bubble_tea">Your companion Bubble tea!</string>
+    <string name="quit">Quit</string>
+    <string name="your_nick">Your nick</string>
+    <string name="enter_your_nick">Enter your nick!</string>
+    <string name="please_enter_your_nick">Please enter your nick</string>
+    <string name="accept">Accept!</string>
+    <string name="back_button">Back button</string>
+    <string name="select_difficulty">Select difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="you_won">You won!</string>
+    <string name="you_lost">You lost!</string>
+    <string name="score">Score: %1$s</string>
+    <string name="attempts">Attempts: %1$s</string>
+    <string name="bubble_tea_life_left">Bubble tea life left: %1$s</string>
+    <string name="gained_experience_points">Gained %1$s experience points</string>
+    <string name="go_to_menu">Go to menu</string>
+    <string name="numbers_between">"Numbers between "</string>
+    <string name="your_hp_but_boba_tea">Your hp but boba tea</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="check">Check!</string>
+    <string name="go_to_stats">Go to stats!</string>
+    <string name="please_input_a_number">Please input a number</string>
+    <string name="your_guess_is_lower">Your guess is lower</string>
+    <string name="your_guess_is_higher">Your guess is higher</string>
+    <string name="none">None</string>
+    <string name="highscore_is">Your highscore is %1$s</string>
+    <string name="your_experience_points">Your experience points: %1$s</string>
+    <string name="change_your_nick">Change your nick!</string>
+    <string name="set_your_new_nick">Set your new nick!</string>
+    <string name="bubble_tea_to_unlock">Bubble tea to unlock</string>
+    <string name="bubble_tea_to_get">Bubble tea to get</string>
+    <string name="bubble_tea">%1$s bubble tea</string>
+    <string name="unlocked_at_exp">Unlocked at %1$s exp</string>
+    <string name="exp_to_go">Exp to go %1$s</string>
+    <string name="you_have_equipped_bubble_tea">You have equipped %1$s bubble tea</string>
+    <string name="equip">Equip</string>
+    <string name="guess_the_number_game">Guess The Number Game</string>
+</resources>

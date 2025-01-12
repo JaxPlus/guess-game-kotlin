@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="star_icon">Ikona gwiazdy</string>
+    <string name="leaderboard_icon">Ikona tablicy wyników</string>
+    <string name="levels">Poziomy</string>
+    <string name="play">Zagraj</string>
+    <string name="leaderboard">Tablica wyników</string>
+    <string name="your_companion_bubble_tea">Twój przyjaciel bubble tea!</string>
+    <string name="quit">Wyjdź</string>
+    <string name="your_nick">Twój nick</string>
+    <string name="enter_your_nick">Wprowadź twój nick!</string>
+    <string name="please_enter_your_nick">Proszę wprowadź twój nick</string>
+    <string name="accept">Zaakceptuj!</string>
+    <string name="back_button">Przycisk do przejścia do menu</string>
+    <string name="select_difficulty">Wybierz trudność gry</string>
+    <string name="easy">Łatwa</string>
+    <string name="medium">Średnia</string>
+    <string name="hard">Trudna</string>
+    <string name="you_won">Wygrałeś!</string>
+    <string name="you_lost">Przegrałeś!</string>
+    <string name="score">Wynik: %1$s</string>
+    <string name="attempts">Próby: %1$s</string>
+    <string name="bubble_tea_life_left">Pozostałe życia bubble tea: %1$s</string>
+    <string name="gained_experience_points">Zdobyłeś %1$s punktów doświadczenia</string>
+    <string name="go_to_menu">Wróć do menu</string>
+    <string name="numbers_between">"Numery pomiędzy "</string>
+    <string name="your_hp_but_boba_tea">Życia bubble tea</string>
+    <string name="enter_a_number">Wprowadź numer</string>
+    <string name="check">Sprawdź!</string>
+    <string name="go_to_stats">Sprawdź statystyki!</string>
+    <string name="please_input_a_number">Proszę wprowadź numer</string>
+    <string name="your_guess_is_lower">Liczba jest niżej</string>
+    <string name="your_guess_is_higher">Liczba jest wyżej</string>
+    <string name="none">Brak</string>
+    <string name="highscore_is">Twój najwyższy wynik to %1$s</string>
+    <string name="your_experience_points">Twoje punkty doświadczenia: %1$s</string>
+    <string name="change_your_nick">Zmień swój nick!</string>
+    <string name="set_your_new_nick">Ustaw swój nowy nick!</string>
+    <string name="bubble_tea_to_unlock">Bubble tea do odblokowania</string>
+    <string name="bubble_tea_to_get">Bubble tea do odblokowania</string>
+    <string name="bubble_tea">%1$s bubble tea</string>
+    <string name="unlocked_at_exp">Odblokowywana na %1$s exp</string>
+    <string name="exp_to_go">Brakuje %1$s doświadczenia</string>
+    <string name="you_have_equipped_bubble_tea">Twój nowy kompan to %1$s bubble tea</string>
+    <string name="equip">Wybierz</string>
+    <string name="guess_the_number_game">Zgadnij numer z Bubble Tea!</string>
+</resources>
